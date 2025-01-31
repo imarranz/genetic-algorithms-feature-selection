@@ -40,7 +40,7 @@ Within the realm of feature selection, **GAFS** (Genetic Algorithms Feature Sele
 
 ### Evaluation Metrics Support
 
-- **Diverse Metric Options**: With support for various evaluation metrics such as accuracy, AUC, F1-score, precision, and recall, **GAFS** equips users with the tools to gauge the performance of their models comprehensively.
+- **Diverse Metric Options**: With support for various evaluation metrics such as accuracy, *AUC*, *F1-score*, *precision*, *accuracy* and *recall*, **GAFS** equips users with the tools to gauge the performance of their models comprehensively.
 
 ### Hyperparameter Flexibility
 
@@ -215,4 +215,10 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For more information, suggestions, or questions, please feel free to reach out via <specify_contact_method>
+For more information, suggestions, or questions, please feel free to reach out via
+
+<p align="center">
+<a href="https://www.linkedin.com/in/ibon-mart%C3%ADnez-arranz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn"></a>&nbsp;&nbsp;
+<a href="https://github.com/imarranz/"><img src="https://img.shields.io/badge/github-FFFFFF.svg?&style=for-the-badge&logo=Github&logoColor=black" alt="GitHub"></a>&nbsp;&nbsp;
+<a href="https://x.com/imarranz/"><img src="https://img.shields.io/badge/X.com-000000?style=for-the-badge&logo=X&logoColor=white" alt="X"></a>
+</p>
