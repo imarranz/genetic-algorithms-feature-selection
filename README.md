@@ -11,7 +11,7 @@
   <a href="LICENSE.md">
     <img src="https://img.shields.io/badge/License-MIT-red.svg?longCache=true" alt="MIT License">
   </a>
-   <a href="https://github.com/imarranz/genetic-genetic_algorithms_feature_selection"><img src="https://img.shields.io/github/stars/imarranz/genetic_algorithms_feature_selection" alt="Stars"/>
+   <a href="https://github.com/imarranz/genetic-genetic-algorithms-feature-selection"><img src="https://img.shields.io/github/stars/imarranz/genetic-algorithms-feature-selection" alt="Stars"/>
   </a>
 </p>
 
