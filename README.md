@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <!-- Estado del repositorio -->
+  <!-- Estado y contribución -->
   <a href="#">
     <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
   </a>
@@ -15,11 +15,21 @@
   <a href="https://github.com/imarranz/genetic-algorithms-feature-selection/pulls">
     <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
   </a>
+</p>
+
+<p align="center">
+  <!-- Información del repositorio -->
   <a href="https://github.com/imarranz/genetic-algorithms-feature-selection">
     <img src="https://img.shields.io/github/stars/imarranz/genetic-algorithms-feature-selection?style=social" alt="GitHub Repo stars">
   </a>
   <a href="https://github.com/imarranz/genetic-algorithms-feature-selection/fork">
     <img src="https://img.shields.io/github/forks/imarranz/genetic-algorithms-feature-selection?style=social" alt="GitHub forks">
+  </a>
+  <a href="https://github.com/imarranz/genetic-algorithms-feature-selection/commits/main">
+    <img src="https://img.shields.io/github/last-commit/imarranz/genetic-algorithms-feature-selection" alt="Last Commit">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/github/repo-size/imarranz/genetic-algorithms-feature-selection" alt="Repo Size">
   </a>
 </p>
 
@@ -32,7 +42,10 @@
     <img src="https://img.shields.io/badge/Config-YAML-yellow" alt="Formato YAML">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active">
+    <img src="https://img.shields.io/badge/Dependencies-Scikit--learn%20%7C%20NumPy%20%7C%20Pandas%20%7C%20Matplotlib%20%7C%20Seaborn-blue" alt="Dependencies">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Notebooks%20Support-Yes-brightgreen" alt="Jupyter Notebooks Support">
   </a>
 </p>
 
@@ -42,7 +55,10 @@
     <img src="https://img.shields.io/badge/Category-Feature%20Selection-blue" alt="Feature Selection">
   </a>
   <a href="#">
-    <img src="https://img.shields.io/badge/Science-Communication-green" alt="Science Communication">
+    <img src="https://img.shields.io/badge/Machine%20Learning-Genetic%20Algorithms-purple" alt="Machine Learning">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Maturity-Stable-green" alt="Maturity">
   </a>
 </p>
 
