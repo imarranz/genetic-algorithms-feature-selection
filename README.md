@@ -5,16 +5,46 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/imarranz/genetic-algorithms-feature-selection/pulls">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  <!-- Estado del repositorio -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
   </a>
   <a href="LICENSE.md">
     <img src="https://img.shields.io/badge/License-MIT-red.svg?longCache=true" alt="MIT License">
   </a>
-   <a href="https://github.com/imarranz/genetic-genetic-algorithms-feature-selection"><img src="https://img.shields.io/github/stars/imarranz/genetic-algorithms-feature-selection" alt="Stars"/>
+  <a href="https://github.com/imarranz/genetic-algorithms-feature-selection/pulls">
+    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?longCache=true" alt="Pull Requests">
+  </a>
+  <a href="https://github.com/imarranz/genetic-algorithms-feature-selection">
+    <img src="https://img.shields.io/github/stars/imarranz/genetic-algorithms-feature-selection?style=social" alt="GitHub Repo stars">
+  </a>
+  <a href="https://github.com/imarranz/genetic-algorithms-feature-selection/fork">
+    <img src="https://img.shields.io/github/forks/imarranz/genetic-algorithms-feature-selection?style=social" alt="GitHub forks">
   </a>
 </p>
 
+<p align="center">
+  <!-- Información técnica -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Built%20With-Python-blue" alt="Python">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Config-YAML-yellow" alt="Formato YAML">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Active">
+  </a>
+</p>
+
+<p align="center">
+  <!-- Categoría y tipo de proyecto -->
+  <a href="#">
+    <img src="https://img.shields.io/badge/Category-Feature%20Selection-blue" alt="Feature Selection">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Science-Communication-green" alt="Science Communication">
+  </a>
+</p>
 
 ## Overview
 
